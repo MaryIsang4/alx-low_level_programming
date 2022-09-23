@@ -1,2 +1,3 @@
-#!/bin/bash 
-gcc -E $CFILE -o ci
+#!/bin/bash
+
+gcc -E $CFILE >> c
