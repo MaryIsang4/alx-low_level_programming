@@ -1,27 +1,14 @@
 #include "main.h"
 
-
-
 /**
-
- * main - prints Putchar
-
+ * main - Entry point
  *
-
- * Description: prints _putchar
-
- *
-
- * Return: 0 (Success)
-
+ * Return: nothing, return void
  */
-
-
 
 int main(void)
 
 {
-
 	_putchar('_');
 
 	_putchar('p');
@@ -40,8 +27,5 @@ int main(void)
 
 	_putchar('\n');
 
-
-
 	return (0);
-
 }
