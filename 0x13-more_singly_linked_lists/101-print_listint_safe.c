@@ -1,5 +1,5 @@
 /*
- * File 101-print_listint_safe.c: 
+ * File: 101-print_listint_safe.c
  * Auth: Isang Mary
  */
 
